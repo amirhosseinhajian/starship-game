@@ -2,9 +2,9 @@
 pip install arcade
 
 ## Game keys
-A: move left
-D: move right
-Right Arrow: turn right
-Left Arrow: turn left
-Space: Shoot a bullet
+A: move left<br />
+D: move right<br />
+Right Arrow: turn right<br />
+Left Arrow: turn left<br />
+Space: Shoot a bullet<br />
 <img src="images/starship.gif">
